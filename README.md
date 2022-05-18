@@ -1,4 +1,4 @@
-# Performing-Data-Aggregation-using-SQL-Aggregate-Functions
+# Data Aggregation using SQL
 Performing Data Aggregation using SQL Aggregate Functions
 
 This project is for people who are interested in manipulating data in a database, that is, retrieving data from a database to get summaries and insights using SQL.
